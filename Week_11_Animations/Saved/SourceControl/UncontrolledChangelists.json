@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/AnimationSequence.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XC/6YEPUFRP8LHH348A3TFKKJ.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/E9/2HM1B1D3A2XCBT8OYWE63G.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8P/X055WQO93FPF4K9M7L807B.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Animations/Joyful_Jump.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Kachujin_diffuse.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Kachujin_diffuse_body.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Kachujin_G_Rosales.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Kachujin_G_Rosales_Anim.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Kachujin_G_Rosales_PhysicsAsset.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Kachujin_G_Rosales_Skeleton.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/kachujin_MAT.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/kachujin_MAT_.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Kachujin_normal.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Kachujin_specular.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Animations/Taunt.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Animations/FighterGirl.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Animations/Goofy_Running.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Animations/Ninja_Idle.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Animations/Walking.uasset",
+				"C:/Users/SOglesby/Documents/Unreal Projects/Week_11_Animations/Content/Animations/FighterGirlBlenSpace.uasset"
+			]
+		}
+	]
+}
